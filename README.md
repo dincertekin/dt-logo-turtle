@@ -1,2 +1,2 @@
 # dt-logo-turtle
-Python Turtle Graphics ile tasarlanmış GitHub profilimdeki DT logosu. Bütün kodları verdim.
+The DT logo on my GitHub profile designed with Python Turtle Graphics. I gave all the codes.
