@@ -5,7 +5,7 @@ t = turtle.Turtle()
 turtle.Screen().bgcolor("white")
 t.fillcolor("black")
 
-# D Harfi
+# Letter D
 t.penup()
 t.goto(-100, 100)
 t.pendown()
@@ -32,7 +32,7 @@ t.right(60)
 t.forward(27)
 t.end_fill()
 
-# T Harfi
+# Letter T
 t.penup()
 t.goto(-15, 100)
 t.pendown()
